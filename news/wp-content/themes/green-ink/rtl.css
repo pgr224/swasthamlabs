@@ -1,0 +1,9 @@
+/*
+Theme Name: green_ink
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}

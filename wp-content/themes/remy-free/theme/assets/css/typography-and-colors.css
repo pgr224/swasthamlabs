@@ -1,0 +1,1505 @@
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hq-j2U0lmluP9RWlSytm3ho.woff2) format("woff2");
+  unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hpX5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2");
+  unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hhWV49_lSm1NYrwo-zkhivY.woff2) format("woff2");
+  unicode-range:U+1F00-1FFF
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hqaRobkAwv3vxw3jMhVENGA.woff2) format("woff2");
+  unicode-range:U+0370-03FF
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hv8zf_FOSsgRmwsS7Aa9k2w.woff2) format("woff2");
+  unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hj0LW-43aMEzIO6XUTLjad8.woff2) format("woff2");
+  unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
+}
+
+@font-face
+{
+  font-family:'Open Sans';
+  font-style:normal;
+  font-weight:800;
+  src:local('Open Sans Extrabold'),local(OpenSans-Extrabold),url(http://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/ek4gzZ-GeXAPcSbHtCeQI_esZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/mErvLBYg_cXG3rLvUsKT_fesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/-2n2p-_Y08sg57CNWQfKNvesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+1F00-1FFF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/u0TOpm082MNkS5K0Q4rhqvesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+0370-03FF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/NdF9MtnOpLzo-noMoG0miPesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/Fcx7Wwv8OzT71A3E1XOAjvesZW2xOQ-xsNqO47m55DA.woff2) format("woff2");
+  unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:400;
+  src:local(Roboto),local(Roboto-Regular),url(http://fonts.gstatic.com/s/roboto/v15/CWB0XYA8bzo0kSThX0UTuA.woff2) format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/77FXFjRbGzN4aCrSFhlh3hJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/isZ-wbCXNKAbnjo6_TwHThJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/UX6i4JxQDm3fVTc1CPuwqhJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+1F00-1FFF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/jSN2CGVDbcVyCnfJfjSdfBJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+0370-03FF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/PwZc-YbIL414wB9rB1IAPRJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/97uahxiqZRoncBaCEI3aWxJtnKITppOI_IvcXXDNrsc.woff2) format("woff2");
+  unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
+}
+
+@font-face
+{
+  font-family:'Roboto';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Bold'),local(Roboto-Bold),url(http://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37ZjTOQ_MqJVwkKsUn0wKzc2I.woff2) format("woff2");
+  unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37ZjUj_cnvWIuuBMVgbX098Mw.woff2) format("woff2");
+  unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37ZkbcKLIaa1LC45dFaAfauRA.woff2) format("woff2");
+  unicode-range:U+1F00-1FFF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zmo_sUJ8uO4YLWRInS22T3Y.woff2) format("woff2");
+  unicode-range:U+0370-03FF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zr6up8jxqWt8HVA3mDhkV_0.woff2) format("woff2");
+  unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37ZiYE0-AqJ3nfInTTiDXDjU4.woff2) format("woff2");
+  unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:400;
+  src:local('Roboto Slab Regular'),local(RobotoSlab-Regular),url(http://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37Zo4P5ICox8Kq3LLUNMylGO4.woff2) format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJZ6iIh_FvlUHQwED9Yt5Kbw.woff2) format("woff2");
+  unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJS_vZmeiCMnoWNN9rHBYaTc.woff2) format("woff2");
+  unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJSFaMxiho_5XQnyRZzQsrZs.woff2) format("woff2");
+  unicode-range:U+1F00-1FFF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJQalQocB-__pDVGhF3uS2Ks.woff2) format("woff2");
+  unicode-range:U+0370-03FF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJWhQUTDJGru-0vvUpABgH8I.woff2) format("woff2");
+  unicode-range:U+0102-0103,U+1EA0-1EF1,U+20AB
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJejkDdvhIIFj_YMdgqpnSB0.woff2) format("woff2");
+  unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF
+}
+
+@font-face
+{
+  font-family:'Roboto Slab';
+  font-style:normal;
+  font-weight:700;
+  src:local('Roboto Slab Bold'),local(RobotoSlab-Bold),url(http://fonts.gstatic.com/s/robotoslab/v6/dazS1PrQQuCxC3iOAJFEJYlIZu-HDpmDIZMigmsroc4.woff2) format("woff2");
+  unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000
+}
+
+h1,h2,h3,h4,h5,h6,.blog .yit_post_meta_date span,div.blog_post .yit_post_date span,a[class^=eg-portfolio-masonry],.call-to-action-two .call-to-action-two-container div.incipit span,.call-three .newsletter-cta-form-container .text span.newsletter-cta-title,.call-three .newsletter-cta-form-container .text span.newsletter-cta-incipit,.counter .number
+{
+  font-family:'Roboto Slab',sans-serif
+}
+
+body,p,li,address,dd,blockquote,td,th,.blog.single .content-style-social:after
+{
+  font-family:'Roboto Slab',sans-serif
+}
+
+.highlight,.numbers-sections h4 span.title-highlight,.product-meta .price ins .amount,.singleproduct.woocommerce div.product div.summary p.price ins span.amount,#product-box .border.group .price ins span.amount,.desire-slider-playfair-title span,.call-three .newsletter-cta-form-container b
+{
+  color:#acc327
+}
+
+.special-font,.special-font a.btn-alternative
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#3a3a39;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+blockquote p,.yit_post_quote p,.format-quote .blog.big.single .yit_the_content p
+{
+  font-size:16px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#6c6c6c;
+  font-style:italic;
+  font-weight:400
+}
+
+.quote-icon,.testimonial-wrapper .testimonial-cit:before,.testimonials-slider ul.testimonial-content li blockquote p:before,.format-quote .blog.big.single .yit_the_content:before,.yit_post_quote .fa,blockquote:before
+{
+  font-size:72px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400
+}
+
+.quote-icon,.testimonial-wrapper .testimonial-cit:before,.testimonials-slider ul.testimonial-content li blockquote p:before,blockquote,blockquote:before,.format-quote .blog.big.single .yit_the_content:before,.format-quote .blog.big.single .yit_the_content,.yit_post_quote
+{
+  color:#acc327;
+  border-color:#acc327
+}
+
+blockquote,.yit_post_quote,.format-quote .blog.big.single .yit_the_content
+{
+  background-color:#f5f5f5
+}
+
+body,.st-content,.st-content-inner,.stretched-layout .blog.single .content-style-social,.shortcode .content-style-social,#portfolio_nav .prev a[rel=prev],#portfolio_nav .next a[rel=next],#product-nav > a,.team-section .member-social
+{
+  background:#fff url()
+}
+
+body
+{
+  background-repeat:no-repeat;
+  background-position:top left;
+  background-attachment:scroll
+}
+
+.boxed-layout #wrapper,.boxed-layout .blog.single .content-style-social
+{
+  background-color:#fff
+}
+
+.shade-1
+{
+  color:#809314
+}
+
+.shade-2
+{
+  color:#acc327
+}
+
+.shade-3
+{
+  color:#686868
+}
+
+#comments ol li .information .user-info .is_author,.nav span.highlight,.widget_price_filter .ui-slider .ui-slider-range,.widget_price_filter .ui-slider .ui-slider-handle,#wp-calendar thead tr,#wp-calendar td#today,.pricing_box.price-table.large div.head span.price
+{
+  background-color:#6a6a6a
+}
+
+.single-product.woocommerce div.product div.summary div[itemprop="description"],.blog.small .yit_post_meta,.blog.big .yit_post_meta,.single-product.woocommerce div.product div.summary p.price,.single-product.woocommerce div.product div.summary form.cart,#payment,.woocommerce table.shop_table.order_details tfoot tr:last-child,.woocommerce-page table.shop_table.my_account_orders thead,.testimonial-wrapper .testimonial-rating
+{
+  border-top-color:#e2e2e2
+}
+
+.widget h3,#product-box form.cart,#product-box .border.group p.price,.woocommerce-tabs ul.tabs,.blog.big.single .yit_post_content.title,#my-account-sidebar ul li,.widget.widget_recent_entries ul li,.widget.widget_recent_comments ul li,.widget.widget_categories > ul > li,.widget_product_categories ul.product-categories > li,.sidebar .widget.widget_nav_menu ul.menu > li,.woocommerce ul.product_list_widget li,.widget.yit_products_category ul.product_list_widget li,.woocommerce table.shop_table.cart tbody,#yith-wcwl-form table.shop_table tbody,.woocommerce .cart-collaterals .cart_totals tbody tr.shipping,#order_review table tbody,#order_review table tfoot tr.shipping,#payment li,.woocommerce table.shop_table.order_details thead,.woocommerce table.shop_table.order_details tbody,.woocommerce-page table.shop_table.my_account_orders thead,.widget.woocommerce.widget_layered_nav ul.yith-wcan-list li,.contact-info ul li,.products-slider-wrapper h3.products-slider-title,.widget.testimonial-widget .testimonial-description,.widget.yit_toggle_menu ul.menu > li,.widget.yit-recent-comments div.comment,.widget.yit_recent_reviews .review-content,.related.products > h3
+{
+  border-bottom-color:#e2e2e2
+}
+
+.post.no-featured:not(.format-quote) .blog.big .yit_post_content,.woocommerce ul.products li.product .product-wrapper,ul.products li.product .thumb-wrapper.zoom .attachments-thumbnail .single-attachment-thumbnail,.sbHolder .sbSelector,.sbHolder .sbOptions,#product-box .border.group,.blog.small .post-wrapper,#comments ol li .content,.arrow:before,.arrow-right:before,#comments ol li .avatar img,.blog.big.single .yit_post_meta.last_block,#commentform .comment-form-comment #comment,div.pp_woocommerce .pp_gallery ul li a:hover,div.pp_woocommerce .pp_gallery ul li.selected a,.woocommerce-tabs #comments ol.commentlist li,.arrow-down:before,.woocommerce-tabs #review_form,.woocommerce-tabs #review_form .comment-form-rating,#commentform input:not([type=submit]),.woocommerce input[type="text"],.woocommerce input[type="password"],.woocommerce input[type="email"],.woocommerce input.input-text,.woocommerce-page input.input-text,#my-account-sidebar ul,#my-account-sidebar .user-profile div.user-image,#my-account-sidebar div.user-profile,.meta.blog.big,ul.products li.product .product-actions-wrapper .product-other-action.buttons_2 > div:first-child,ul.products li.product .product-actions-wrapper .product-other-action.buttons_3 > div:first-child,ul.products li.product .product-actions-wrapper .product-other-action.buttons_3 > div:last-child,ul.products li.product .product-actions-wrapper .product-other-action.buttons_4 > div,#popupWrap .product-share,form.variations_form.cart td.value .select_option,.single-product.woocommerce div.product div.summary div.product-share,.woocommerce .quantity input.qty,.woocommerce-page .quantity input.qty,.woocommerce .quantity .minus,.woocommerce .quantity .plus,.woocommerce-page .quantity .minus,.woocommerce-page .quantity .plus,.woocommerce table.shop_table.cart thead,#yith-wcwl-form table.shop_table thead,.woocommerce .cart-collaterals,input[type="password"],input[type="text"],#review-order-wrapper,.woocommerce form .form-row textarea,.woocommerce ul.order_details li,.woocommerce-page ul.order_details li,.widget.widget_search #searchform,.woocommerce-product-search,.products-slider-wrapper .es-nav-prev span,.products-slider-wrapper .es-nav-next span,.banner-container .banner-image,.newsletter_form_email input.email-field,.logos-slider .nav a.prev,.logos-slider .nav a.next,.contact-form li.textarea-field div.input-prepend textarea,.contact-form li div.input-prepend input[type=text],.contact-form li div.input-prepend input[type=password],.contact-form li div.input-prepend select,.yith-wpv-quick-info-wrapper textarea,.wishlist-ask-an-estimate-popup textarea,.widget.yith-woo-ajax-navigation ul.yith-wcan-color li a,.widget.yith-woo-ajax-navigation ul.yith-wcan-label li a,.member,.blog-section-wrapper ul.blog_posts li div.blog_post,.testimonial-wrapper,#faqs-container .faq-wrapper,#faqs-container .faq-icon,.filters.faq li a,.error-404-container .error-404-search input[type="text"],.toggle,.toggle .toggle-title span.fa.fa-plus.closed,.toggle .toggle-title span.fa.fa-minus.opened,.call-to-action-two,.dropcap,#show-category-product ul.products li a.product-category-link,.categories-slider ul.products li a.product-category-link,#show-category-product div.category-count:before,.categories-slider div.category-count:before,#primary .testimonials-slider ul.testimonial-content div.owl-prev,#primary .testimonials-slider ul.testimonial-content div.owl-next,.woocommerce .login-form-checkout,.widget.featured-products .flex-direction-nav li a.flex-next,.widget.featured-products .flex-direction-nav li a.flex-prev,.widget.last-tweets .arrow-left,.arrow-left:before,.widget.testimonial-widget .ms-skin-default .ms-nav-next:after,.widget.testimonial-widget .ms-skin-default .ms-nav-prev:after,.sidebar .widget.newsletter-form .newsletter-section form input[type="text"],.wpb_widgetised_column .widget.newsletter-form .newsletter-section form input[type="text"],.widget.newsletter-form.with-border,.categories-slider-wrapper .es-nav span,.tabs-container ul.tabs li,.woocommerce-tabs ul.tabs li,.woocommerce-tabs ul.tabs li:last-child,.blog.big .thumbnail,.wpb_tabs .wpb_tabs_nav li
+{
+  border-color:#e2e2e2
+}
+
+.border-line
+{
+  background-color:#acc327
+}
+
+.border-2-top
+{
+  border-top-color:#acc327
+}
+
+.border-2-bottom
+{
+  border-bottom-color:#acc327
+}
+
+.widget.yith-woo-ajax-navigation ul.yith-wcan-color li.chosen a,.widget.yith-woo-ajax-navigation ul.yith-wcan-label li.chosen a,.filters.faq li a.active,#header a.cart-items > div
+{
+  border-color:#acc327
+}
+
+.fa,.glyphicon,.entypo,#number-of-products a,#number-of-products a:after,#featured-slider .ms-nav-next:after,#featured-slider .ms-nav-prev:after,.widget.testimonial-widget .ms-skin-default .ms-nav-next:after,.widget.testimonial-widget .ms-skin-default .ms-nav-prev:after,.widget.featured-products .flex-direction-nav li a
+{
+  color:#809314
+}
+
+.woocommerce ul.products li.product .product-actions-wrapper .product-rating,.single-product.woocommerce div.product div.summary .product-rating,.woocommerce-tabs #comments ol.commentlist div.meta .product-rating,.woocommerce-tabs #review_form p.stars a:hover:before,.woocommerce-tabs #review_form p.stars a:focus:before,.woocommerce-tabs #review_form p.stars a.active:before,.woocommerce-tabs #review_form p.stars a.visited:before,.widget.testimonial-widget ul li .testimonial-rating span,.woocommerce ul.products li.product .info-product .product-rating,.woocommerce #reviews #comments ol.commentlist li .product-rating,.star-rating span,.widget.yit_recent_reviews .meta div.reviews-rating,.testimonial-wrapper .testimonial-rating
+{
+  color:#fab000
+}
+
+.woocommerce-product-rating .star-rating:before,.woocommerce-tabs #review_form p.stars:before,.widget.woocommerce .star-rating:before,.testimonial-rating .star-rating:before,.yit_recent_reviews .star-rating:before
+{
+  color:#d4d4d4
+}
+
+a,a:visited,#header #welcome-menu-login .lost_password a,.nav span.highlight,.box-content a h2,.woocommerce .login-form-checkout .woocommerce-info a,.testimonials-slider ul.testimonial-content li p.meta a
+{
+  color:#809314
+}
+
+a:hover,a:active,.product-actions-wrapper .product-other-action .yith-wcwl-add-to-wishlist:hover a,.testimonials-slider ul.testimonial-content li p.meta a:hover,.box-content a h2:hover,.toggle .toggle-title h4:hover,.toggle .toggle-title.tab-opened h4,.toggle .toggle-title span.fa.fa-minus.opened:before,#primary .testimonials-slider ul.testimonial-content div.owl-next:hover i:before,#primary .testimonials-slider ul.testimonial-content div.owl-prev:hover i:before,.product-actions-wrapper .product-other-action .compare-button:hover a,.product-actions-wrapper .product-other-action .share-button:hover a,.product-other-action div.yith-ywraq-add-button:hover a,.woocommerce .product-other-action div.yith-ywraq-add-button:hover a.add-request-quote-button.button,.product-other-action div.yith_ywraq_add_item_browse_message:hover a,#product-box .product-actions .compare-button:hover a,#product-box .product-actions .yith-wcwl-add-to-wishlist:hover a,.single-product.woocommerce div.product div.summary .product-actions div.yith-wcwl-add-to-wishlist:hover a,.single-product.woocommerce div.product div.summary .product-actions div.compare-button:hover a,.woocommerce .product-actions div.yith-ywraq-add-button a:hover,.product-actions div.yith_ywraq_add_item_browse_message a:hover,.woocommerce .cart-collaterals .cart_totals h3,#header #welcome-menu-login .lost_password a:hover,.woocommerce table.cart td.product-name div.product-name-price div.product-name a:hover,#product-nav > a:hover span.fa,#my-account-sidebar ul li > a:hover,#my-account-sidebar ul li > a.active,#order_review_heading,#payment h3,.widget.yit-recent-posts .recent-post span.num-comments a:hover,.widget.yit-recent-posts .recent-post span.author a:hover,#inquiry-form .product-inquiry:hover h4,#yith-wcwl-form table.shop_table td.product-name a:hover,table.shop_table.my_account_orders tbody td.order-number a:hover,table.shop_table.order_details tr.order_item td.product-name a:hover,#list-or-grid a.active i,#list-or-grid a:hover i,#number-of-products a.active,#number-of-products a:hover,.comments-info-wrapper span.author a,.woocommerce ul.product_list_widget li:hover a span.product_title,.widget.yit-recent-posts .recent-post .text > div.post-content > a.title:hover,form.variations_form.cart a.reset_variations:hover,#faqs-container .faq-wrapper .faq-title:hover h4,#faqs-container .faq-wrapper .faq-title:hover span.entypo,#faqs-container .faq-wrapper .faq-title.active span.entypo,.widget.woocommerce.widget_recent_reviews ul.product_list_widget li:hover a,.widget.woocommerce.widget_recent_reviews ul.product_list_widget li a:hover,#faqs-container .faq-wrapper .faq-title.active h4,#show-category-product a.product-category-link:hover h4,.products-slider.categories a.product-category-link:hover h4,.woocommerce .login-form-checkout .woocommerce-info a:hover,.widget.contact-info ul li:hover .info-container .contact_info_email h5,.widget.yith-woo-ajax-navigation ul.yith-wcan-label li a:hover,.widget.yith-woo-ajax-navigation ul.yith-wcan-label li.chosen a,.widget.yith-woo-ajax-navigation ul.yith-wcan-list li:hover > *,.widget.yith-woo-ajax-navigation ul.yith-wcan-list li.chosen > *,.widget_product_categories ul a:hover,#featured-slider .ms-nav-next:hover:after,#featured-slider .ms-nav-prev:hover:after,.widget_categories ul a:hover,.widget_archive ul a:hover,.widget_nav_menu ul a:hover,.widget.widget_meta ul a:hover,.widget_pages ul a:hover,.widget.yit_products_category li:hover a span.product_title,.widget.yit_toggle_menu ul.sub-menu li a:hover,.widget.yit_toggle_menu ul.menu > li:hover > a,.widget.yit_toggle_menu ul.menu > li.opened > a,ul.blog_posts li div.blog_post .yit_post_meta span.info a:hover,ul.blog_posts li div.blog_post .yit_post_meta span.title a:hover,a:hover[class^=eg-portfolio-masonry],.woocommerce ul.product_list_widget li a:hover,.widget.testimonial-widget .ms-skin-default .ms-nav-next:hover:after,.widget.testimonial-widget .ms-skin-default .ms-nav-prev:hover:after,.widget.featured-products .flex-direction-nav li a:hover,#product-nav a:hover span.glyphicon,.modal-shortcode .modal-opener a:hover,#primary .testimonials-slider ul.testimonial-content li p.meta span,.widget.yit_recent_reviews .review-meta-avatar a:hover,.widget.yit_recent_reviews span.entypo:hover,.images-slider-sc .flex-direction-nav li a:hover:before,.product-meta h3.product-name a:hover,.woocommerce-product-rating a.woocommerce-review-link:hover,.features-tab-container ul.features-tab-labels li.current-feature h4 a,.features-tab-container ul.features-tab-labels li.current-feature:hover h4 a,.features-tab-container ul.features-tab-labels li:hover h4 a,.features-tab-container ul.features-tab-labels li h4 a:hover,.sitemap a:hover,.yith-woocompare-widget ul.products-list li a.title:hover,.yith-woocompare-widget a.clear-all:hover,.contact-info ul li:hover .info-container .contact_info_email h5,.widget.widget_recent_entries ul li a:hover,.widget h3 a.rsswidget:hover,.widget.widget_rss ul li a.rsswidget:hover,.widget_yith-wcwl-lists ul.dropdown > li.dropdown-section a:hover,.product-categories a:hover
+{
+  color:#acc327
+}
+
+p,body,time,dt,dd,td,th,address,.sbHolder a,#welcome-menu-login .lost_password a,.testimonial-wrapper .testimonial-smallquote,.nav span.highlight,.nav span.highlight-inverse,table.shop_table.my_account_orders tbody td.order-number a,.team-section .member-name,.widget.testimonial-widget .ms-skin-default .ms-nav-next,.widget.testimonial-widget .ms-skin-default .ms-nav-prev,table.shop_table.order_details tr.order_item td.product-name a,form.variations_form.cart a.reset_variations,.filters-container ul.filters li .filter-category,#portfolio_big li .info .categories a,#portfolio_small li .info .categories a,#portfolio_nav .title .categories a,#portfolio_big li .info .portfolio_meta .meta_content a,#portfolio_content .portfolio_meta .meta_content a,#portfolio_nav div a .info .next_terms,#portfolio_nav div a .info .prev_terms,#portfolio_content .title,#portfolio_content .content-style-social a,#ship-to-different-address label,.widget.widget_price_filter #min_price,.widget.widget_price_filter #max_price,.widget_price_filter .price_slider_amount .price_label,.widget.widget_layered_nav ul li a,ul.yith-wcan-list li a,ul.yith-wcan-list li small,.widget_product_categories ul a,.widget_product_categories ul span,#wp-calendar tfoot a,.widget_categories ul a,.widget_archive ul a,.widget_nav_menu ul a,.widget.widget_meta ul a,.widget_pages ul a,ul.short li,ul.blog_posts li div.blog_post .yit_post_meta span.info a,#sitewide-notice p,.modal-shortcode .modal-opener a,.widget.yit_recent_reviews .review-meta-avatar a,.sitemap a,.woocommerce-product-rating a.woocommerce-review-link,.yith-woocompare-widget ul.products-list li a.title,.yith-woocompare-widget a.clear-all,.widget_yith-wcwl-lists ul.dropdown > li.dropdown-section a,.yith_woocommerce_ajax_search #yith-s,#yith-ajaxsearchform .search-navigation,.yith_woocommerce_ajax_search .yith-wcas-search-list
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#686868;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+h1
+{
+  font-size:22px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+h2,.woocommerce .login-form-checkout .woocommerce-info,.quote-title span
+{
+  font-size:20px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+h3
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+h4,h4 span,.features-tab-container ul.features-tab-labels li h4 a,.single-product.woocommerce div.product form.cart .variations .label label,#product-box form.cart .label label,.cart-collaterals th,.cart-collaterals td,.cart-collaterals td span,table.shop_table.cart td.product-subtotal span,#order_review table tr.cart-subtotal td span,#order_review table tr.total td span,.woocommerce table.shop_table th,#yith-wcwl-form table.shop_table th span,.woocommerce-page table.shop_table.my_account_orders th span,h4 span.title-highlight
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+h5,#payment li label,#shipping_method li label,#yith-wcwl-form table.shop_table td.product-name a,#yith-wcwl-form table.shop_table td.product-price span
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+h6,div.category-count-content span
+{
+  font-size:10px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+#header,#st-container > nav.st-menu
+{
+  background-color:#fff
+}
+
+#header
+{
+  background-repeat:no-repeat;
+  background-position:top left;
+  background-attachment:scroll
+}
+
+#logo #textual
+{
+  font-size:48px;
+  font-family:'Open Sans',sans-serif;
+  color:#fff;
+  font-style:normal;
+  font-weight:800;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#logo span.title-highlight
+{
+  font-size:48px;
+  font-family:'Open Sans',sans-serif;
+  color:#acc327;
+  font-style:normal;
+  font-weight:800;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#tagline,#portfolio_nav .prev-label,#portfolio_nav .next-label
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#7c7c7c;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#logo #tagline span.title-highlight
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#acc327;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#header-row,#header-row .widget,#header-row p
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#655442;
+  font-style:normal;
+  font-weight:500;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#header-row
+{
+  background-color:#ece1c4;
+  border-top-color:#ece1c4;
+  border-bottom-color:#ece1c4
+}
+
+#header-sibar-center,#header-sidebar-right,#header-sidebar-center .widget,#header-sidebar-right .widget
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#fff;
+  font-style:normal;
+  font-weight:500;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#header.skin1 .header-wrapper div#header-sidebar-center
+{
+  border-bottom-color:#ece1c4
+}
+
+#slogan h2,#slogan h2 span
+{
+  font-size:80px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+#slogan p
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:none
+}
+
+#slogan h2 span.title-highlight,#slogan p span.title-highlight,#slogan.yith-checkout-single span.current
+{
+  color:#acc327
+}
+
+#slogan
+{
+  background-color:#fff
+}
+
+#topbar,#topbar a .welcome_username b,#header-row .widget_text h6
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#655442;
+  font-style:normal;
+  font-weight:500;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#topbar .shortcode-highlight
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#acc327;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+#topbar
+{
+  background-color:#ece1c4
+}
+
+#topbar,.nav > ul > li div.submenu ul.sub-menu,#lang_sel li ul,#welcome-menu-login .login-box,#welcome-menu-login .login-box h3
+{
+  border-color:#ece1c4
+}
+
+#topbar a,#topbar a i,#welcome-menu-login .login-box h3
+{
+  color:#655442
+}
+
+#topbar a:hover,#topbar a:hover i
+{
+  color:#acc327
+}
+
+#topnav .nav
+{
+  color:#fff
+}
+
+#topbar .nav a:hover,#topbar .nav ul > li:hover > a,#topbar .nav .current-menu-item > a,#topbar .nav .current-menu-ancestor > a,#topbar .nav .current-page-item > a,#topbar .nav ul.sub-menu li a:hover,#topbar .nav ul.children li a:hover,#topbar .nav ul.sub-menu li a:hover,#topbar .nav ul.children li a:hover,#topbar .nav div.submenu li > div.submenu li a:hover
+{
+  color:#acc327
+}
+
+#nav.nav ul > li a,#nav.nav ul > li a span,.st-menu ul > li a,.st-menu ul > li a span,#customer_login label
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.nav ul > li a,#nav > ul > li:after,.st-menu ul > li a,#customer_login label
+{
+  color:#7d7d7d
+}
+
+.nav ul > li a:hover,#header-sidebar-right #lang_sel ul > li > ul > li a:hover,.nav ul > li a:hover,.nav ul > li a:focus,.st-menu ul > li a:hover,.st-menu ul > li a:focus,.search_mini_content .sbHolder a:hover,.st-menu .current-menu-item > a,.st-menu .current-menu-ancestor > a,.st-menu .current-page-item > a,.nav ul > li:hover > a,.st-menu ul > li:hover > a,#header .nav li.menu-close > a
+{
+  color:#7d7d7d
+}
+
+#nav.nav > ul > li > a:hover
+{
+  background:#ece1c4
+}
+
+.nav > ul li ul.sub-menu,.st-menu > ul li ul.sub-menu,#lang_sel > ul > li > ul,#welcome-menu-login .login-box,#header-row .yit-custom-megamenu ul.yit-cm > li > div.submenu > ul.sub-menu > li > div.submenu,#header-row .yit-custom-megamenu ul.yit-cm > li > div.submenu ul.sub-menu,.yit-vertical-megamenu .nav > ul > li > div.submenu > ul,.yit-vertical-megamenu .nav > ul > li > div.submenu ul.sub-menu
+{
+  background-color:#fff
+}
+
+.nav > ul > li > div.submenu ul.sub-menu li a,#header-row .yit-custom-megamenu ul.yit-cm > li > div.submenu > ul.sub-menu > li a,.nav #lang_sel > ul > li > ul li a span,.nav #lang_sel > ul > li > ul li a,.widget_search_mini .search_mini_content .sbHolder a
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#header-row .yit-custom-megamenu ul.yit-cm > li > div.submenu > ul.sub-menu > li a,.yit-vertical-megamenu .nav > ul > li a,.widget_search_mini .search_mini_content .sbHolder a
+{
+  color:#7d7d7d
+}
+
+.nav ul.sub-menu li a:hover,.nav ul.children li a:hover,.nav ul.sub-menu li a:hover,.nav ul.children li a:hover,.nav div.submenu li > div.submenu li a:hover,.st-menu ul.sub-menu li a:hover,.st-menu ul.children li a:hover,.st-menu ul.sub-menu li a:hover,.st-menu ul.children li a:hover,.st-menu div.submenu li > div.submenu li a:hover,#header-row .yit-custom-megamenu ul.yit-cm > li > div.submenu > ul.sub-menu > li a:hover,.widget_search_mini .search_mini_content .sbHolder a:hover,.yit-vertical-megamenu .nav > ul > li a:hover
+{
+  color:#acc327
+}
+
+.nav .bigmenu > .submenu > ul.sub-menu > li > a,#topbar .nav .bigmenu > .submenu > ul.sub-menu > li > a
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.nav .bigmenu div.submenu li > div.submenu li a,.st-menu .bigmenu div.submenu li > div.submenu li a,#topbar .nav .bigmenu div.submenu li > div.submenu li a
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:500;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.nav .bigmenu > .submenu > ul.sub-menu > li > a,.st-menu .bigmenu > .submenu > ul.sub-menu > li > a,#topbar .nav .bigmenu > .submenu > ul.sub-menu > li > a
+{
+  color:#809314
+}
+
+.nav .bigmenu > .submenu > ul.sub-menu > li > a:hover,.nav .bigmenu > .submenu > ul.sub-menu > li:hover > a,.st-menu .bigmenu > .submenu > ul.sub-menu > li > a:hover,.st-menu .bigmenu > .submenu > ul.sub-menu > li:hover > a,#topbar .nav .bigmenu > .submenu > ul.sub-menu > li > a:hover,#topbar .nav .bigmenu > .submenu > ul.sub-menu > li:hover > a
+{
+  color:#acc327
+}
+
+.nav .bigmenu div.submenu li > div.submenu li a,#topbar .nav .bigmenu div.submenu li > div.submenu li a
+{
+  color:#7d7d7d
+}
+
+.nav .bigmenu div.submenu li > div.submenu li a:hover,.nav .bigmenu div.submenu li > div.submenu li:hover a,.nav .bigmenu div.submenu li > div.submenu li.current-menu-item a,.st-menu .bigmenu div.submenu li > div.submenu li a:hover,.st-menu .bigmenu div.submenu li > div.submenu li:hover a,.st-menu .bigmenu div.submenu li > div.submenu li.current-menu-item a,#topbar .nav .bigmenu div.submenu li > div.submenu li a:hover,#topbar .nav .bigmenu div.submenu li > div.submenu li:hover a,#topbar .nav .bigmenu div.submenu li > div.submenu li.current-menu-item a
+{
+  color:#acc327
+}
+
+.widget_search_mini .search_mini_content label,.widget_search_mini .select-wrapper .holder,#mini-search-submit,#header .search_mini_content .sbSelector
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget_search_mini input#search_mini
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+#mini-search-submit
+{
+  border-color:#acc327;
+  background-color:#acc327;
+  color:#fff
+}
+
+.widget h3,.widget h3 a.rsswidget
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.widget_recent_entries ul li a,.widget.widget_rss ul li a.rsswidget,.comments-info-wrapper span.author a,.widget.testimonial-widget .name-testimonial,.sidebar .widget.yit_text_image div.widget_text h5,.widget.contact-info .info-container h5,.contact-info .info-container h5,.widget.contact-info .info-container h5 span,.contact-info .info-container h5 span,.contact-info .info-container h5,.sidebar .widget.yit_text_image div.widget_text h5 span,.widget.yit_recent_reviews .review-meta-avatar .author
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#686868;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.teaser .image_banner_inside .title
+{
+  font-size:18px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#1f1f1f;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.teaser .image_banner_inside .subtitle,ul.blog_posts li div.blog_post .yit_post_meta span.title a
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#474747;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.contact-form label
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.yit_toggle_menu ul.menu > li > a
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.yit_toggle_menu ul.sub-menu li a
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+.widget.yit-recent-posts .recent-post .text > div.post-content > a.title
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#797979;
+  font-style:normal;
+  font-weight:500;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.widget.yit-recent-posts .recent-post .hentry-post p.post-date
+{
+  background-color:#acc327
+}
+
+#header .widget.yit_text_image div.widget_text,.widget.yit_text_image div.widget_text p,#header .widget.yit_text_image div.widget_text h6
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#7d7d7d;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.btn-flat,a.btn-flat,.modal-shortcode .modal-opener a.btn-flat,.parallaxeos_animate a.btn-flat span,#header-row .yit-custom-megamenu > div > ul > li > a,input.button,a.btn.btn-flat.animated span,.recent-post .hentry-post p.post-date .day,.recent-post .hentry-post p.post-date .month,.yith-wcwl-wishlistaddedbrowse span.feedback,#yith-wcwl-form a.button,table.my_account_orders a.button.view,table.my_account_orders a.button.cancel,table.my_account_orders a.button.pay,.woocommerce-message .button.wc-forward,.woocommerce-error .button.wc-forward,button.single_add_to_cart_button.button,.button.compare,.blog input[type="submit"],#my-account-content p.order-again a.button,a.track-button,.woocommerce table.my_account_orders .order-actions a.track-button,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details,.yith-quick-view-content.woocommerce div.entry-summary a.compare,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a,a.button.add-request-quote-button,.yith-wcwtl-msg + a.button.button-leave,a.stop-reply.button,a.yith-wcan-reset-navigation
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400;
+  text-transform:uppercase
+}
+
+.btn-flat,a.btn-flat,a.btn-flat.added,.modal-shortcode .modal-opener a.btn-flat,#header-row .yit-custom-megamenu > div > ul > li > a,.nav span.highlight-inverse,input.button,.btn.btn-flat i.fa,.btn.btn-alternative i.fa,a.btn.btn-flat.animated span,.recent-post .hentry-post p.post-date .day,.recent-post .hentry-post p.post-date .month,.parallaxeos_animate a.btn-flat span,.yith-wcwl-wishlistaddedbrowse span.feedback,#yith-wcwl-form a.button,table.my_account_orders a.button.view,table.my_account_orders a.button.cancel,table.my_account_orders a.button.pay,.woocommerce-message .button.wc-forward,a[class^=eg-portfolio-masonry],.woocommerce-error .button.wc-forward,button.single_add_to_cart_button.button,.blog input[type="submit"],.button.compare,#my-account-content p.order-again a.button,a.track-button,.woocommerce table.my_account_orders .order-actions a.track-button,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details,.yith-quick-view-content.woocommerce div.entry-summary a.compare,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a,a.button.add-request-quote-button,.yith-wcwtl-msg + a.button.button-leave,a.stop-reply.button,a.yith-wcan-reset-navigation,.tp-caption a
+{
+  color:#fff
+}
+
+.btn-flat:hover,a.btn-flat:hover,#header-row .yit-custom-megamenu > div > ul > li > a:hover,input.button:hover,.parallaxeos_animate a.btn-flat:hover span,#yith-wcwl-form a.button:hover,.btn.btn-flat:hover i.fa,a.btn.btn-flat.animated:hover span,.btn.btn-alternative:hover i.fa,table.my_account_orders a.button.view:hover,table.my_account_orders a.button.cancel:hover,table.my_account_orders a.button.pay:hover,.woocommerce-message .button.wc-forward:hover,.woocommerce-error .button.wc-forward:hover,button.single_add_to_cart_button.button:hover,.blog input[type="submit"]:hover,.button.compare:hover,#my-account-content p.order-again a.button:hover,a.track-button:hover,.blog .more-link:hover,.blog .read-more:hover,.woocommerce table.my_account_orders .order-actions a.track-button:hover,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details:hover,.yith-quick-view-content.woocommerce div.entry-summary a.compare:hover,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a:hover,a.button.add-request-quote-button:hover,.yith-wcwtl-msg + a.button.button-leave:hover,a.stop-reply.button:hover,a.yith-wcan-reset-navigation:hover,.tp-caption a:hover
+{
+  color:#fff
+}
+
+.btn-flat,a.btn-flat,#header-row .yit-custom-megamenu > div > ul > li > a,.yith-wcwl-wishlistaddedbrowse span.feedback,.parallaxeos_animate a.btn-flat span,input.button,#yith-wcwl-form a.button,table.my_account_orders a.button.view,table.my_account_orders a.button.cancel,table.my_account_orders a.button.pay,.woocommerce-message .button.wc-forward,.woocommerce-error .button.wc-forward,button.single_add_to_cart_button.button,.blog input[type="submit"],.button.compare,#my-account-content p.order-again a.button,a.track-button,.woocommerce table.my_account_orders .order-actions a.track-button,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details,.yith-quick-view-content.woocommerce div.entry-summary a.compare,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a,a.button.add-request-quote-button,.yith-wcwtl-msg + a.button.button-leave,a.stop-reply.button,a.yith-wcan-reset-navigation
+{
+  border-color:#000
+}
+
+.btn-flat:hover,a.btn-flat:hover,#header-row .yit-custom-megamenu > div > ul > li > a:hover,.parallaxeos_animate a.btn-flat:hover span,input.button:hover,#yith-wcwl-form a.button:hover,table.my_account_orders a.button.view:hover,table.my_account_orders a.button.cancel:hover,table.my_account_orders a.button.pay:hover,.woocommerce-message .button.wc-forward:hover,.woocommerce-error .button.wc-forward:hover,button.single_add_to_cart_button.button:hover,.blog input[type="submit"]:hover,.button.compare:hover,#my-account-content p.order-again a.button:hover,a.track-button:hover,.blog .more-link:hover,.blog .read-more:hover,.woocommerce table.my_account_orders .order-actions a.track-button:hover,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details:hover,.yith-quick-view-content.woocommerce div.entry-summary a.compare:hover,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a:hover,a.button.add-request-quote-button:hover,.yith-wcwtl-msg + a.button.button-leave:hover,a.stop-reply.button:hover,a.yith-wcan-reset-navigation:hover
+{
+  border-color:#434343
+}
+
+.btn-flat,a.btn-flat,#header-row .yit-custom-megamenu > div > ul > li > a,.nav span.highlight-inverse,.parallaxeos_animate a.btn-flat span,input.button,#yith-wcwl-form a.button,table.my_account_orders a.button.view,table.my_account_orders a.button.cancel,table.my_account_orders a.button.pay,.woocommerce-message .button.wc-forward,.woocommerce-error .button.wc-forward,button.single_add_to_cart_button.button,.blog input[type="submit"],.button.compare,#my-account-content p.order-again a.button,a.track-button,.woocommerce table.my_account_orders .order-actions a.track-button,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details,.yith-quick-view-content.woocommerce div.entry-summary a.compare,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a,a.button.add-request-quote-button,.yith-wcwtl-msg + a.button.button-leave,a.stop-reply.button,a.yith-wcan-reset-navigation
+{
+  background-color:#000;
+  background:#000
+}
+
+.btn-flat:hover,a.btn-flat:hover,#header-row .yit-custom-megamenu > div > ul > li > a:hover,input.button:hover,.parallaxeos_animate a.btn-flat:hover span,#yith-wcwl-form a.button:hover,table.my_account_orders a.button.view:hover,table.my_account_orders a.button.cancel:hover,table.my_account_orders a.button.pay:hover,.woocommerce-message .button.wc-forward:hover,.woocommerce-error .button.wc-forward:hover,button.single_add_to_cart_button.button:hover,.blog input[type="submit"]:hover,.button.compare:hover,#my-account-content p.order-again a.button:hover,a.track-button:hover,.blog .more-link:hover,.blog .read-more:hover,.woocommerce table.my_account_orders .order-actions a.track-button:hover,.yith-quick-view-content.woocommerce div.entry-summary a.yith-wcqv-view-details:hover,.yith-quick-view-content.woocommerce div.entry-summary a.compare:hover,.yith-quick-view-content.woocommerce div.entry-summary .yith-wcwl-add-to-wishlist a:hover,a.button.add-request-quote-button:hover,.yith-wcwtl-msg + a.button.button-leave:hover,a.stop-reply.button:hover,a.yith-wcan-reset-navigation:hover
+{
+  background-color:#434343;
+  background:#434343
+}
+
+.btn-alternative,a.btn-alternative,#submit,.modal-shortcode .modal-opener a.btn-alternative,input.button.button-register.btn-alternative,.register input.button.btn-alternative,a.btn.btn-alternative.animated span,.widget.widget_search #searchform #searchsubmit,.woocommerce-product-search input[type="submit"],.error-404-container .error-404-search #searchsubmit,.widget.widget_price_filter button[type="submit"],.widget_product_search #searchform #searchsubmit,.call-three .newsletter-cta-form-container input[type="submit"],input#place_order,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist,.submit-wishlist-changes,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button,.woocommerce .yith-wcwl-wishlist-new button,a.yith-wcqv-button,.yith-wcwtl-msg + a.button:not(.button-leave),.ask-an-estimate-button.ask-an-estimate-button-popup,a.wishlist-submit.add_to_wishlist.popup_button,a.comment-reply-link.button,.blog .more-link,.blog .read-more
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400;
+  text-transform:uppercase
+}
+
+.btn-alternative,a.btn-alternative,a.btn-alternative:active,#submit,#my-account-sidebar .user-profile span.logout a,.modal-shortcode .modal-opener a.btn-alternative,input.button.button-register.btn-alternative,.widget.widget_search #searchform #searchsubmit,.woocommerce-product-search input[type="submit"],.parallaxeos_animate a.btn-alternative span,#my-account-content .addresses .title a.edit,.register input.button.btn-alternative,a.btn.btn-alternative.animated span,.error-404-container .error-404-search #searchsubmit,.widget.widget_price_filter button[type="submit"],.widget_product_search #searchform #searchsubmit,#subscription-toggle span a,#favorite-toggle span a,.call-three .newsletter-cta-form-container input[type="submit"],input#place_order,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist,.submit-wishlist-changes,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button,.woocommerce .yith-wcwl-wishlist-new button,a.yith-wcqv-button,.yith-wcwtl-msg + a.button:not(.button-leave),.ask-an-estimate-button.ask-an-estimate-button-popup,a.wishlist-submit.add_to_wishlist.popup_button,a.comment-reply-link.button,.blog .more-link,.blog .read-more
+{
+  color:#fff
+}
+
+.btn-alternative:hover,a.btn-alternative:hover,#submit:hover,#my-account-sidebar .user-profile span.logout:hover a,input.button.button-register.btn-alternative:hover,.widget.widget_search #searchform #searchsubmit:hover,.woocommerce-product-search input[type="submit"]:hover,#my-account-content .addresses .title a.edit:hover,a.btn.btn-alternative.animated:hover span,.register input.button.btn-alternative:hover,.error-404-container .error-404-search #searchsubmit:hover,.widget.widget_price_filter button[type="submit"]:hover,.widget_product_search #searchform #searchsubmit:hover,.call-three .newsletter-cta-form-container input[type="submit"]:hover,input#place_order:hover,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist:hover,.submit-wishlist-changes:hover,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover,.woocommerce .yith-wcwl-wishlist-new button:hover,a.yith-wcqv-button:hover,.yith-wcwtl-msg + a.button:not(.button-leave):hover,.ask-an-estimate-button.ask-an-estimate-button-popup:hover,a.wishlist-submit.add_to_wishlist.popup_button:hover,a.comment-reply-link.button:hover,.blog .more-link,.blog .read-more:hover
+{
+  color:#fff
+}
+
+.btn-alternative,a.btn-alternative,#submit,input.button.button-register.btn-alternative,.widget.widget_search #searchform #searchsubmit,.woocommerce-product-search input[type="submit"],.error-404-container .error-404-search #searchsubmit,.register input.button.btn-alternative,.widget.widget_price_filter button[type="submit"],.call-three .newsletter-cta-form-container input[type="submit"],input#place_order,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist,.submit-wishlist-changes,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button,.woocommerce .yith-wcwl-wishlist-new button,a.yith-wcqv-button,.yith-wcwtl-msg + a.button:not(.button-leave),.ask-an-estimate-button.ask-an-estimate-button-popup,a.wishlist-submit.add_to_wishlist.popup_button,a.comment-reply-link.button,#tab-reviews a.ywar_filter_order.active,#tab-reviews a.ywar_filter_order:hover,.blog .more-link,.blog .read-more:hover
+{
+  border-color:#acc327
+}
+
+.btn-alternative:hover,a.btn-alternative:hover,#submit:hover,.widget.widget_search #searchform #searchsubmit:hover,.woocommerce-product-search input[type="submit"]:hover,input.button.button-register.btn-alternative:hover,.register input.button.btn-alternative:hover,.error-404-container .error-404-search #searchsubmit:hover,.widget.widget_price_filter button[type="submit"]:hover,.call-three .newsletter-cta-form-container input[type="submit"]:hover,input#place_order:hover,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist:hover,.submit-wishlist-changes:hover,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover,.woocommerce .yith-wcwl-wishlist-new button:hover,a.yith-wcqv-button:hover,.yith-wcwtl-msg + a.button:not(.button-leave),.ask-an-estimate-button.ask-an-estimate-button-popup:hover,a.wishlist-submit.add_to_wishlist.popup_button:hover,a.comment-reply-link.button:hover,.blog .more-link,.blog .read-more:hover
+{
+  border-color:#809314
+}
+
+.btn-alternative,a.btn-alternative,#submit,#my-account-sidebar .user-profile span.logout,input.button.button-register.btn-alternative,.widget.widget_search #searchform #searchsubmit,.woocommerce-product-search input[type="submit"],.nav span.highlight,.register input.button.btn-alternative,#my-account-content .addresses .title a.edit,.error-404-container .error-404-search #searchsubmit,.widget.widget_price_filter button[type="submit"],.widget_product_search #searchform #searchsubmit,.call-three .newsletter-cta-form-container input[type="submit"],input#place_order,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist,.submit-wishlist-changes,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button,.woocommerce .yith-wcwl-wishlist-new button,a.yith-wcqv-button,.yith-wcwtl-msg + a.button:not(.button-leave),.ask-an-estimate-button.ask-an-estimate-button-popup,a.wishlist-submit.add_to_wishlist.popup_button,a.comment-reply-link.button,.blog .more-link,.blog .read-more
+{
+  background-color:#acc327;
+  background:#acc327
+}
+
+.btn-alternative:hover,a.btn-alternative:hover,#submit:hover,#my-account-sidebar .user-profile span.logout:hover,#my-account-content .addresses .title a.edit:hover,.widget.widget_search #searchform #searchsubmit:hover,.woocommerce-product-search input[type="submit"]:hover,input.button.button-register.btn-alternative:hover,.register input.button.btn-alternative:hover,.error-404-container .error-404-search #searchsubmit:hover,.widget.widget_price_filter button[type="submit"]:hover,.widget_product_search #searchform #searchsubmit:hover,.call-three .newsletter-cta-form-container input[type="submit"]:hover,input#place_order:hover,.yith-wcwl-popup-button .add_to_wishlist.single_add_to_wishlist:hover,.submit-wishlist-changes:hover,.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover,.woocommerce .yith-wcwl-wishlist-new button:hover,a.yith-wcqv-button:hover,.yith-wcwtl-msg + a.button:not(.button-leave):hover,.ask-an-estimate-button.ask-an-estimate-button-popup:hover,a.wishlist-submit.add_to_wishlist.popup_button:hover,a.comment-reply-link.button:hover,.blog .more-link,.blog .read-more:hover
+{
+  background-color:#809314;
+  background:#809314
+}
+
+.error-404-text
+{
+  font-size:30px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#1f1f1f;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+#faqs-container .faq-wrapper .faq-title h4,.filters.faq li a
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#686868;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.blog.big h3.post-title a,.blog.small h3.post-title a,.share-container .share-text,#portfolio_big li .info h3.title a,#portfolio_small li .info h3.title a
+{
+  font-size:20px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:700;
+  text-align:center;
+  text-transform:uppercase
+}
+
+.blog.big.single h1.post-title a,.blog.big.single h1.post-title,#portfolio_nav .title h1.portfolios-title
+{
+  font-size:30px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.blog.big h3.post-title a,.blog.small h3.post-title a,.blog h2.quote-title a,.blog_section.post_meta .title a,.morph-button-inflow.open .content-style-social a,.shortcode.morph-button-inflow > button a,.shortcode.morph-button-inflow > button,.shortcode.morph-button-inflow.open .content-style-social a,.blog.big.single h1.post-title a,.blog.big.single h1.post-title,#portfolio_big li .info h3.title a,#portfolio_small li .info h3.title a,#portfolio_nav .title h1.portfolios-title
+{
+  color:#434343
+}
+
+.blog.big h3.post-title a:hover,.blog.small h3.post-title a:hover,.blog h2.quote-title a:hover,.blog_section.post_meta .title a:hover,.format-quote .blog.big h3.post-title a:hover,.blog.single .morph-button-inflow.open .content-style-social a:hover,.shortcode.morph-button-inflow > button a:hover,.shortcode.morph-button-inflow > button:hover,.shortcode.morph-button-inflow.open .content-style-social a:hover,#portfolio_big li .info h3.title a:hover,#portfolio_small li .info h3.title a:hover
+{
+  color:#b0b0b0
+}
+
+.blog .yit_post_meta,.yit_shortcodes.recent-post .blog .yit_post_meta,.yit_shortcodes.recent-post .yit_post_meta span.author,.yit_shortcodes.recent-post span.author a,.widget.yit-recent-posts .recent-post span.author,.widget.yit-recent-posts .recent-post span.author a,.widget.yit-recent-posts .recent-post span.num-comments,.widget.yit-recent-posts .recent-post span.num-comments a,.widget.yit-recent-posts .recent-post span.num-comments,.blog.big.single .morph-button-inflow-2 > button
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#afafaf;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+.blog.big .yit_post_meta span a,.blog.big .yit_post_meta span a:visited,.blog.small .yit_post_meta a,.blog.small .yit_post_meta a:visited
+{
+  color:#434343
+}
+
+.blog.big .yit_post_meta span a:hover,.blog.big .yit_post_meta span a:active,.blog.small .yit_post_meta a:hover,.blog.small .yit_post_meta a:active,.blog.big.single .morph-button-inflow-2 > button:hover,.format-quote .blog.big .yit_post_meta,.format-quote .blog.big .yit_post_meta span,.format-quote .blog.big .yit_post_meta span a
+{
+  color:#b0b0b0
+}
+
+.blog.big .yit_post_content p
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#afafaf;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+.blog.small .yit_post_content p,.blog .small .yit_the_content p
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#afafaf;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:none
+}
+
+.format-quote .blog.big .yit_post_content p
+{
+  font-size:18px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#fff;
+  font-style:italic;
+  font-weight:700;
+  text-align:center;
+  text-transform:none
+}
+
+.format-quote .blog.big h3.post-title a,.format-quote .blog.big .yit_post_meta span a:hover
+{
+  font-size:11px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#fff;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.blog .yit_post_meta_date,.yit_post_date
+{
+  background-color:#acc327
+}
+
+.blog .yit_post_meta_date .day,.blog .yit_post_meta_date .month,ul.blog_posts li div.blog_post .yit_post_date .day,ul.blog_posts li div.blog_post .yit_post_date .month
+{
+  color:#fff
+}
+
+.reply_link,.comment-reply-link,#commentform .logged-in-as a,.comment-navigation .nav-previous a,.comment-navigation .nav-next a
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#555;
+  font-style:normal;
+  font-weight:400;
+  text-transform:uppercase
+}
+
+.general-pagination,nav.woocommerce-pagination ul.page-numbers li
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  font-style:normal;
+  font-weight:400;
+  text-align:center
+}
+
+.general-pagination a,nav.woocommerce-pagination ul.page-numbers li,nav.woocommerce-pagination ul.page-numbers li a
+{
+  color:#B0B0B0
+}
+
+.general-pagination a:hover,#commentform .logged-in-as a:hover,.comment-navigation .nav-previous a:hover,.comment-navigation .nav-next a:hover,nav.woocommerce-pagination ul.page-numbers li:hover,nav.woocommerce-pagination ul.page-numbers li a:hover
+{
+  color:#434343
+}
+
+.general-pagination a.selected,.general-pagination a:hover.selected,nav.woocommerce-pagination ul.page-numbers li.current,nav.woocommerce-pagination ul.page-numbers li .current
+{
+  color:#434343
+}
+
+.general-pagination a,nav.woocommerce-pagination ul.page-numbers li
+{
+  background-color:#fff
+}
+
+.general-pagination a:hover,nav.woocommerce-pagination ul.page-numbers li:hover
+{
+  background-color:#fff
+}
+
+.general-pagination a.selected,nav.woocommerce-pagination ul.page-numbers li .current
+{
+  background-color:#fff
+}
+
+.banner-image .banner-image-content
+{
+  font-family:'Roboto Slab',sans-serif
+}
+
+#footer a,#footer .widget.contact-info .info-container
+{
+  color:#655442
+}
+
+#footer a:hover
+{
+  color:#acc327
+}
+
+#copyright p,#copyright ul li a,#footer .widget.yit_text_image div.widget_text p,#footer .widget.contact-info .info-container span
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#655442;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+#copyright a,#copyright ul li a,#copyright ul.level-1 li::after,#footer-extra-row ul.extra-copy-menu li a
+{
+  color:#655442
+}
+
+#copyright a:hover,#copyright ul li a:hover,#footer-extra-row ul.extra-copy-menu li a:hover
+{
+  color:#acc327
+}
+
+#footer h3
+{
+  font-size:15px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#655442;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#footer
+{
+  border-top-color:#ece1c4;
+  background-color:#ece1c4;
+  background-repeat:no-repeat;
+  background-position:top left;
+  background-attachment:scroll
+}
+
+#copyright,#footer-extra-row
+{
+  background-color:#ece1c4;
+  border-color:#fff
+}
+
+#back-top a,#back-top a:hover
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#fff;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+#back-top
+{
+  background-color:#acc327
+}
+
+#back-top:hover
+{
+  background-color:#655442
+}
+
+.product-meta h3.product-name,.product-meta h3.product-name a,.woocommerce table.cart td.product-name div.product-name a,.widget.woocommerce.widget_top_rated_products .product_price,.woocommerce ul.product_list_widget li a,.woocommerce ul.product_list_widget a span.product_title,.widget.featured-products .info-featured-product .product_name,.widget.yit_products_category a span.product_title
+{
+  font-size:15px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#655442;
+  font-style:normal;
+  font-weight:700;
+  text-align:center;
+  text-transform:none
+}
+
+.product-categories,.product-categories a
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#858585;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+.product-meta .price,.product-meta .price .amount,.woocommerce table.cart td.product-name div.product-price span,.widget.woocommerce ul.product_list_widget li .product_price ins .amount,.widget.woocommerce ul.product_list_widget li .product_price .amount,.widget.featured-products .info-featured-product .price .amount,.widget.yit_products_category ul li .product_price .amount,.widget.yit_products_category ul li .product_price ins .amount,#yit-popup-border.woocommerce .price .amount,#yit-popup-border.woocommerce .price ins .amount,#yit-popup-border.woocommerce .price .from
+{
+  font-size:15px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:700;
+  text-align:center;
+  text-transform:none
+}
+
+.product-actions-wrapper .product-other-action .yith-wcwl-add-to-wishlist a,.product-actions-wrapper .product-other-action .compare-button a,.product-actions-wrapper .product-other-action .share-button a,#product-box .product-actions .compare-button a,#product-box .product-actions .yith-wcwl-add-to-wishlist a,.single-product.woocommerce div.product div.summary .product-actions .compare-button a,.single-product.woocommerce div.product div.summary .product-actions .yith-wcwl-add-to-wishlist a,.woocommerce-tabs #comments ol.commentlist li .comment-info div.meta span.fn,#my-account-sidebar .username,.product-other-action div.yith-ywraq-add-button a,.woocommerce .product-other-action a.add-request-quote-button.button,.product-other-action div.yith_ywraq_add_item_browse_message a,.woocommerce .product-actions div.yith-ywraq-add-button a,.product-actions div.yith_ywraq_add_item_browse_message a,.single-product.woocommerce div.product div.summary .socials a:not(:hover)
+{
+  font-size:10px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#858585;
+  font-style:normal;
+  font-weight:400;
+  text-align:center;
+  text-transform:uppercase
+}
+
+#list-or-grid span,#number-of-products span
+{
+  font-size:12px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#000;
+  font-style:normal;
+  font-weight:700;
+  text-align:center;
+  text-transform:uppercase
+}
+
+.woocommerce-message,.woocommerce-info,.woocommerce-error li
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#535353;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.single-product.woocommerce div.product div.summary h1
+{
+  font-size:18px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.single-product.woocommerce div.product div.summary .price,.single-product.woocommerce div.product div.summary .price span.amount,#product-box .border.group .price,#product-box .border.group .price span.amount
+{
+  font-size:20px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:none
+}
+
+.single-product.woocommerce div.product div.summary form.cart h4,.single-product.woocommerce div.product form.cart table.variations .label label,#product-box form.cart h4,#product-box form.cart table.variations .label label,div.summary.entry-summary form.variations_form.cart .single_variation_wrap h4,#inquiry-form .product-inquiry h4
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#434343;
+  font-style:normal;
+  font-weight:800;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.woocommerce-tabs ul.tabs li a,.woocommerce-tabs ul.tabs li:after,.woocommerce-tabs #respond h3,.single-product.woocommerce div.product div.summary .product-share span,#product-nav span.prev-label,.share-container .share-text,.share-modal a .share-text,#product-nav span.next-label,div.yith-wcwl-share h4,.tabs-container ul.tabs li:after,.tabs-container ul.tabs li h4 a,.wpb_tabs .wpb_tabs_nav li a
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#b0b0b0;
+  font-style:normal;
+  font-weight:700;
+  text-align:left;
+  text-transform:uppercase
+}
+
+.woocommerce div.product .stock.out-of-stock,.woocommerce-page div.product .stock.out-of-stock,#product-box .stock.out-of-stock
+{
+  color:#d00
+}
+
+.woocommerce div.product .stock,.woocommerce-page div.product .stock,.wishlist_table tr td.product-stock-status span.wishlist-in-stock,#product-box .stock
+{
+  color:#85ad74
+}
+
+#my-account-sidebar ul li > a
+{
+  font-size:13px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#a4a4a4;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:uppercase
+}
+
+#header a .yit-mini-cart-subtotal span,a span.cart-items-number,div.yit_cart_widget .product_list_widget .mini-cart-item-info .quantity,div.yit_cart_widget .product_list_widget .mini-cart-item-info .quantity .amount,.sidebar .woocommerce .product_list_widget .mini-cart-item-info .quantity,.sidebar .woocommerce .product_list_widget .mini-cart-item-info .quantity .amount,.sidebar .woocommerce .product_list_widget .mini-cart-item-info .subtotal span.amount,.sidebar .woocommerce p.total span,div.yit_cart_widget .product_list_widget .mini-cart-item-info a,div.yit_cart_widget .product_list_widget li.empty
+{
+  font-size:14px;
+  font-family:'Roboto Slab',sans-serif;
+  color:#383838;
+  font-style:normal;
+  font-weight:400;
+  text-align:left;
+  text-transform:none
+}
+
+#header a .yit-mini-cart-subtotal span.cart-label_text,#header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info .quantity,#header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info .quantity .amount,.sidebar .woocommerce .product_list_widget .mini-cart-item-info .quantity,.sidebar .woocommerce .product_list_widget .mini-cart-item-info .quantity .amount
+{
+  color:#a4a4a4
+}
+
+.woocommerce #header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info a,#header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info a,.woocommerce #header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info .subtotal,#header-sidebar-right > div.yit_cart_widget p.total,.woocommerce #header-sidebar-right > div.yit_cart_widget p.total,.sidebar .woocommerce p.total,#header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info .subtotal
+{
+  color:#383838
+}
+
+.woocommerce #header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info a:hover,#header-sidebar-right > div.yit_cart_widget .product_list_widget .mini-cart-item-info a:hover
+{
+  color:#809314
+}
+
+.woocommerce #header-sidebar-right .yit_cart_widget .cart_wrapper,#header-sidebar-right .yit_cart_widget .cart_wrapper
+{
+  border-color:#dbdbdb;
+  background:#fff
+}
+
+#header span.cart-items-number
+{
+  background-color:#acc327
+}
+
+.products-slider-wrapper .es-nav-prev span,.products-slider-wrapper .es-nav-next span,.logos-slider .nav a.prev span,.logos-slider .nav a.next span,.widget.featured-products .flex-direction-nav li a.flex-next,.widget.featured-products .flex-direction-nav li a.flex-prev,.widget.testimonial-widget .ms-skin-default .ms-nav-prev:after,.widget.testimonial-widget .ms-skin-default .ms-nav-next:after,.categories-slider-wrapper .es-nav-prev span,.categories-slider-wrapper .es-nav-next span,.widget.testimonial-widget .ms-skin-default .ms-nav-next:after,.widget.testimonial-widget .ms-skin-default .ms-nav-next
+{
+  color:#b0b0b0
+}
+
+.products-slider-wrapper .es-nav-prev span:hover,.products-slider-wrapper .es-nav-next span:hover,.logos-slider .nav a.prev:hover span,.logos-slider .nav a.next:hover span,.widget.featured-products .flex-direction-nav li a.flex-next:hover,.widget.featured-products .flex-direction-nav li a.flex-prev:hover,.categories-slider-wrapper .es-nav-prev:hover span,.categories-slider-wrapper .es-nav-next:hover span,.widget.testimonial-widget .ms-skin-default .ms-nav-prev:hover:after,.widget.testimonial-widget .ms-skin-default .ms-nav-next:hover:after,.widget.testimonial-widget .ms-skin-default .ms-nav-next:hover
+{
+  color:#424242
+}
+
+#loginform label
+{
+  font-size:13px;
+  font-family:'Roboto',sans-serif;
+  color:#A4A4A4;
+  font-style:normal;
+  font-weight:400;
+  text-transform:uppercase
+}
+
+#loginform .forgetmenot label,#loginform input[type="text"],#loginform input[type="password"]
+{
+  font-size:14px;
+  font-family:'Roboto',sans-serif;
+  color:#A4A4A4;
+  font-style:normal;
+  font-weight:400
+}
+
+.login .button-primary
+{
+  font-size:14px;
+  font-family:'Roboto',sans-serif;
+  color:#fff;
+  font-style:normal;
+  font-weight:400;
+  text-transform:uppercase;
+  background-color:#acc327;
+  border-color:#acc327
+}
+
+.login .button-primary:hover
+{
+  background-color:#809314;
+  border-color:#809314
+}
+
+.login #nav a,.login #backtoblog a
+{
+  font-size:14px;
+  font-family:'Roboto',sans-serif;
+  color:#686666;
+  font-style:normal;
+  font-weight:700;
+  text-transform:none
+}

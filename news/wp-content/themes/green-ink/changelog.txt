@@ -1,0 +1,33 @@
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+= 1.0.4 =
+[*] Fixed footer link colors
+[*] Fixed Tagline check option
+[*] Fixed translation function on few places
+[*] Improved loading of backend style and scripts
+
+= 1.0.3 =
+[*] Fixed non escaped variable output
+[*] Renamed language file
+[*] Improved translation of the files
+[*] Switched to default wp logo function
+[*] Fixed prefixes
+
+= 1.0.2 =
+[*] Fixes and improvements for submission
+
+= 1.0.1 =
+[*] Fixes and improvements for submission
+
+= 1.0.0 =
+[+] Initial release

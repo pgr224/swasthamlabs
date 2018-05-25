@@ -1,0 +1,2 @@
+Open Sans: 600, 700, 800
+PT Serif: italic, 700

@@ -1,0 +1,7 @@
+#green_ink_pmeta {
+    display: none
+}
+
+#green_ink_pmeta.active {
+    display: block;
+}

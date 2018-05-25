@@ -1,0 +1,26 @@
+/* TABLETS */
+@media (max-width: 767px) {
+  div.vc_custom_1435057830213{
+    margin-top: 0 !important;
+  }
+}
+
+
+/* MOBILE PHONES */
+@media (max-width: 480px) {
+  
+  div.vc_custom_1435060726750{
+ 	  background-size: cover;
+  }
+  
+}
+
+/* IPAD PORTRAIT */
+@media (min-width: 768px) and (max-width: 979px) {
+  div.vc_custom_1435761276082 {
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+  }
+}

@@ -1,0 +1,3 @@
+To import the demo content, with The7 theme active, navigate to WP-admin > Plugins > The7 Plugins and install a plugin called “The7 Demo Content“. After installing and activating it, please, navigate to WP-admin > Tools > The7 Demo Content.
+
+Important! Most images on demos are copyrighted and you cannot use them without purchasing proper licenses. We do not distribute them in theme package and are not responsible for any possible copyright infringement.

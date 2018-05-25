@@ -1,0 +1,4 @@
+Main accent color: #1982ec
+Elements bottom margin: 0px
+Grid gutter width: 50
+Mobile screen width: 768
